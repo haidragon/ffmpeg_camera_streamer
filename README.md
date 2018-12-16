@@ -1,0 +1,2 @@
+# ffmpeg_camera_streamer
+本项目基于ffmpeg实现了PC端摄像头数据的读取、解码、编码和直播
